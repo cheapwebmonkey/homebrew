@@ -12,7 +12,7 @@ Members of the community are considerate of their peers - other Homebrew users. 
 ## Respectful
 Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Homebrew community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
 
-Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will naturally fall into place.
 
 # Diversity
 The Homebrew community welcomes and encourages participation by everyone. Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up to these principles. We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.
